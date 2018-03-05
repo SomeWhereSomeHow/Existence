@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{7AA4B41A-D91D-47B8-BBC7-5029E0601430}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Existence/Creatures/Humans.cs">
+    <Files>
+      <File FileName="Existence/Program.cs" Line="11" Column="6" />
+      <File FileName="Existence/Creatures/ICreature.cs" Line="17" Column="9" />
+      <File FileName="Existence/Creatures/Humans.cs" Line="7" Column="42" />
+      <File FileName="Existence/Creatures/IHumans.cs" Line="14" Column="31" />
+      <File FileName="Existence/Creatures/CreaturePropertys.cs" Line="3" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Existence PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
